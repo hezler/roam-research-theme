@@ -16,3 +16,16 @@ Customize your Roam Research site. This is a custom theme for Roam Research that
   ![image](screenshot_of_the_theme.png)
   ![image](screenshot_of_the_theme2.png)
   ![image](screenshot_of_the_theme3.png)
+
+# Missing some colors?
+  # here is the answer
+  
+ <strong>You have to manually put in the light green on "Kapittel 1" by your self.</strong>
+ 
+  <stron>1.</strong> Simply put this code in: $$\text{\color{#63dd92}Kapittel 1 - Intro til }$$
+        The light green comes from the HEX color code #63dd92
+        
+  <stron>2.</strong> Simply put this code in: $$\text{\color{#63dd92}Kapittel 1 - Intro til }$$
+        The light green comes from the HEX color code #63dd92
+ 
+ 
