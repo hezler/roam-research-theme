@@ -11,4 +11,8 @@ Customize your Roam Research site. This is a custom theme for Roam Research that
   ![image](How_to_apply_theme.png)
   
   
- 
+# How it looks 
+  
+    ![image](screenshot_of_the_theme.png)
+    ![image](screenshot_of_the_theme2.png)
+    ![image](screenshot_of_the_theme3.png)
