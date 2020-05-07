@@ -17,7 +17,7 @@ Customize your Roam Research site. This is a custom theme for Roam Research that
   ![image](screenshot_of_the_theme2.png)
   ![image](screenshot_of_the_theme3.png)
 
-# Missing some colors (like on screenshot number 1)?
+# Missing some colors (from screenshot number 1)?
   <strong> - here is the answer </strong>
   
   You have to manually put in the colors for:
