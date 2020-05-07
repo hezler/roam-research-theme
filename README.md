@@ -17,15 +17,21 @@ Customize your Roam Research site. This is a custom theme for Roam Research that
   ![image](screenshot_of_the_theme2.png)
   ![image](screenshot_of_the_theme3.png)
 
-# Missing some colors?
+# Missing some colors (like on screenshot number 1)?
   <strong> - here is the answer </strong>
   
-You have to manually put in the light green on "Kapittel 1" by your self.
- 
-  1. Simply put this code in: $$\text{\color{#63dd92}Kapittel 1 - Intro til }$$
-        The light green comes from the HEX color code #63dd92
+  You have to manually put in the colors for:
+  
+   1. Light green on "Kapittel 1" by your self.
+       Simply put this code in: $$\text{\color{#63dd92}Kapittel 1 - Intro til }$$
+        The light green comes from the HEX color #63dd92
         
-  2. Simply put this code in: $$\text{\color{#63dd92}Kapittel 1 - Intro til }$$
-        The light green comes from the HEX color code #63dd92
- 
+   2. Yellow on "Ets historie" by your self.
+       Simply put this code in: $$\text{\color{#f7c331}Ets historie}$$
+        The yellow comes from the HEX color #f7c331
+
+   2. Soft pink on "To kategorier av Wi-Fi:".
+        Simply put this code in: $$\text{\color{#F17272}To kategorier av Wi-Fi:}$$
+         The soft pink comes from the HEX color #F17272
+
  
